@@ -1,0 +1,8 @@
+nav{
+    background:greenyellow;
+}
+
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    background-color: green;
+    border-radius: 5px;
+}
